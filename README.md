@@ -1,3 +1,3 @@
-# Warning: DEPRECATED
+Run using this:
 
-Please use the repo for my book, available here: https://github.com/shantnu/PyEng
+python3 webcam.py /Users/blakegebhardt/Desktop/ML Things/Webcam-Face-Detect/haarcascade_frontalface_default.xml
